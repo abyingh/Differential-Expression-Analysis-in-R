@@ -6,7 +6,7 @@ COVID - 19 has emerged to be a defining challenge in various aspects of our life
 
 
 # Data
-The six public samples published by Yang et al. include three replicates of macro-phages extracted from control heart-cell cultures and three replicates that were infected with COVID-19. They can be found in NCBI Databse (https://www.ncbi.nlm.nih.gov) with the following dataset ID's:
+The six public samples published by Yang et al. include three replicates of macro-phages extracted from control heart-cell cultures and three replicates that were infected with COVID-19. They can be found in NCBI Database (https://www.ncbi.nlm.nih.gov) with the following dataset ID's:
 
 **Dataset ID    Label**
 
